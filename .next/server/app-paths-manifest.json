@@ -1,5 +1,8 @@
 {
+  "/api/reddit/posts/route": "app/api/reddit/posts/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/dashboard/page": "app/dashboard/page.js",
-  "/page": "app/page.js",
-  "/auth/login/page": "app/auth/login/page.js"
+  "/auth/login/page": "app/auth/login/page.js",
+  "/dashboard/analytics/page": "app/dashboard/analytics/page.js",
+  "/dashboard/search/page": "app/dashboard/search/page.js"
 }
